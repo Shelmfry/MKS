@@ -1,0 +1,72 @@
+h1 {
+ 	border-style: solid;
+    border-width: 15px;
+    border-color: #b9b9b6;
+    background-color: #dededa;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #64665b;
+    padding: 15px;
+    margin: -20px -15px 0px -15px;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	border-style: solid;
+	border-width:20px;
+	border-color: #b9b9b6;
+	color:white;
+	margin: 20px;
+}
+p {
+	line-height: 30px;
+	margin: 0;
+}
+span {
+	font-size: 30px;
+}
+
+.first {
+	background-color: #357aaf;
+}
+.second {
+	background-color: #3587b9;
+}
+.third {
+	background-color: #3292c3;
+}
+.fourth {
+	background-color: #459eca;
+}
+.fifth {
+	background-color: #5fadd2;
+}
+.sixth {
+	background-color: #75bada
+}
+.seventh {
+	background-color: #8cc2dd;
+}
+.eighth {
+	background-color: #22ab7e;
+}
+.ninth {
+	background-color: #e7aac2;
+}
+.tenth{
+	background-color: #e799b5;
+}
+.eleventh{
+	background-color: #e587a6; 
+}
+.twelth{
+	background-color: #e2749a; 
+}
+.thirteenth{
+	background-color: #e0648a;
+}
+.fourteenth{
+	background-color: #de567f;
+}
+.fifteenth{
+	background-color: #da3d75;
+}

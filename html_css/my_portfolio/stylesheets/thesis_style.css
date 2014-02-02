@@ -1,0 +1,22 @@
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+h1.heading {
+	font-family: 'Butcherman', cursive;
+	text-transform: uppercase;
+}
+h2.heading {
+	font-family: 'Butcherman', cursive;
+}
+#author {
+	font-family: 'Condiment';
+	font-style: italic;
+}
+a {
+	font-size: 10px;
+}
+a:hover {
+	color:red;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Condiment|Butcherman|Frijole|Open+Sans);
