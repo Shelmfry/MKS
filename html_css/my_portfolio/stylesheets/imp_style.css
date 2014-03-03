@@ -1,0 +1,115 @@
+@import url(http://fonts.googleapis.com/css?family=Bree+Serif);
+body {
+	float: left;
+	margin: auto 0;
+	box-sizing: border-box;
+}
+
+div.heading {
+	background-color: #161f28;
+	height: 10em;
+	width: 100%;
+	line-height: 8em;
+}
+h1 {
+	font-family: 'Bree Serif', serif;
+	color: white;
+	text-align:center;
+	text-shadow: 3px 1px #57595f;
+	font-size:30px;
+	margin: auto 0;
+}
+.nav {
+    border:1px solid #161f28;
+    border-width:1px 0;
+    border-radius:4px;
+    background-color: #fcd430;
+    font-family: Arial, Calibri, sans-serif;
+    list-style:none;
+    margin:-1em 30% 0;
+    padding:1em;
+    text-align:center;
+}
+.nav li {
+    display:inline;
+    padding:1em;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+}
+
+div.descr {
+	background-color: #ffffff;
+	line-height: 2em;
+	height: 15em;
+}
+h2 {
+	font-family: 'Bree Serif', serif;
+	color: #1f313e;
+	text-shadow: 3px 1px #57595f;
+	text-align: center;
+	font-size: 70px;
+}
+p {
+	font-family: 'Bree Serif', serif;
+	color: #686868;
+	text-align: center;
+	margin: -3em 20% 0;
+}
+
+div.gallery {
+	background-color: #eaeaea;
+	height: 55em;
+}
+h3 {
+	font-family: Arial, sans-serif;
+	color:#1f313e;
+	font-size: 30px;
+	margin-left: 15%;
+	padding-top: 2em;
+}
+div.gallery p.work {
+	font-family: Arial, sans-serif;
+	text-align: left;
+	padding-top: .7em;
+	margin-left: 15%;
+}
+div.gallery div.img {
+  margin-left:12%;
+  height:auto;
+  width:auto;
+ -moz-column-count: 3;
+-moz-column-gap: 5px;
+-webkit-column-count: 3;
+-webkit-column-gap: 5px;
+column-count: 3;
+column-gap: 5px;
+  }
+figure {
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+}
+/*div.navbar {
+	background-color: #fcd430;
+	margin: -1em;
+	height: 2.5em;
+	display: inline-block;
+	text-align: center;
+}
+ul.nav {
+	list-style: none;
+	width: 100%;
+	margin: .5em;
+	padding: 0;
+}
+ul.nav li { 
+	float: left;
+	margin-right: 2em;
+	margin-left: 2em;
+	display: inline;	
+}
+ul.nav a {
+	display: inline-block;
+	padding: 10px;
+}*/
